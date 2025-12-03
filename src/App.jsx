@@ -56,7 +56,7 @@ export default function WebsiteStatusChecker() {
     setError('');
     setStatus(null);
 
-    const backendUrl = "https://s5nv7uxlxdobt4ufplikddx7z40vdtks.lambda-url.us-east-1.on.aws/";
+    const backendUrl = "https://hsd3th6mthl6l33lyu5atx6r4q0qhyqt.lambda-url.us-east-1.on.aws/";
 
     try {
       const payload = {
